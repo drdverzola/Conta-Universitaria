@@ -1,0 +1,12 @@
+Atores
+Simples -
+Médio - Comunicação com o servidor
+Complexo - Cliente, Funcionario
+
+Complexidade dos casos de uso
+Cadastro - Simples
+Login - Simples
+Transação (Insere crédito, desconta crédito)- Médio
+(faltou deixar claro que transação são os casos de uso desconta crédito e insere crédito)
+Verifica histórico de transações - Médio
+(faltou fazer o diagrama de sequencia desse)
